@@ -1,4 +1,4 @@
-FROM krmcbride/dev-base:alpine
+FROM krmcbride/dev-node:boron
 
 # See https://raw.githubusercontent.com/docker-library/openjdk/238cc35696423794b1951fc63d4cc9ffb8ca9685/8-jdk/alpine/Dockerfile
 ENV LANG C.UTF-8
